@@ -1,8 +1,26 @@
-# HTML Portfolio
-Minimal portfolio website written in pure HTML/CSS to keep things simple.
+# Personal Website [Deprecated Version]
 
-You can see the website at [ennioitaliano.github.io/html-portfolio](https://ennioitaliano.github.io/html-portfolio).
+An earlier version of my personal website, built with HTML, CSS, and vanilla JavaScript. This repository is preserved as a snapshot of my work and web development learning at the time.
 
-***
+**⚠️ The projects and skills linked on the website reflect that period and may be outdated.**
 
-I've build this website with a 'learning-by-doing' approach, and it has been very useful. I've learned how to deal with flex-box and grid, and got a first contact with media queries for dark mode and responsiveness; I've also used some JavaScript to switch between styles.
+[View the original website](https://ennioitaliano.github.io/html-portfolio/)
+
+## Overview
+
+A single-page portfolio featuring:
+
+- Responsive layouts using CSS media queries and Flexbox.
+- Project cards with screenshots, descriptions, and links.
+- A light/dark theme toggle.
+- Sections for skills, résumé, and contact links.
+
+The website is hosted on GitHub Pages. It uses no JavaScript frameworks and requires no build step.
+
+I built this website with a learning-by-doing approach, practicing responsive layouts, CSS custom properties, and JavaScript DOM manipulation for switching themes.
+
+## Run Locally
+
+Clone or download the repository, then open `index.html` in a browser.
+
+Google Fonts and icon stylesheets are loaded from external services.
